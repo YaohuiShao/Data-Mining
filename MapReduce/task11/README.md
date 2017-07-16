@@ -1,0 +1,2 @@
+# Task 11
+Who was the user that answered the most questions and what were the Ids of these questions? Output Format:# OwnerUserId -> PostId, PostId, PostId, . . . 1342 -> 23, 26, 531Use a single space in your actual output: ?1342 -> 23, 26, 531?.

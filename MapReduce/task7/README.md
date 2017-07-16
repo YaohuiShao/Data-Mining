@@ -1,0 +1,2 @@
+# Task 7
+Use the uniLarge.txt file perform a join operation on the studentId key and produce an output that will have the grades of each student as follows:name --> (course1, mark1) (course2, mark2) (course3, mark3) . . . For example, for the previous input file your algorithm should return:George --> (ADBS, 80) (EXC, 70) (TTS, 80) Anna --> (EXC, 65)

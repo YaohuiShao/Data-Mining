@@ -1,0 +1,2 @@
+# Task 1
+Extend the basic version of reservoir sampling such that it can sample multiple lines uniformly without replacement and run on a single machine (i.e. no MapReduce). This means that if we want to sample k lines from a file with n lines in total, then each of the (nk) possible outcomes has equal probability. Implement a program that will sample 100 lines from the file webLarge.txt. Run your program locally (not as a MapReduce job).

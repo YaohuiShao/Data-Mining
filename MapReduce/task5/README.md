@@ -1,0 +1,2 @@
+# Task 5
+What are the top twenty most frequent three-word sequences? Produce a single output file. Each line in the output should contain a count of a three-word sequence followed by a space followed by the actual three-word sequence. The output should be sorted in decreasing frequency order (i.e. the most frequent three-word sequence should be first).
